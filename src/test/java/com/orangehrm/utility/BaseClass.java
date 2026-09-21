@@ -92,6 +92,20 @@ public class BaseClass {
 		driver.quit();
 	}
 	
+	public void test11() {
+		
+		System.out.println("test11");
+	}
+	public void test12() {
+
+		System.out.println("test12");
+	}
+	public void test13() {
+
+		System.out.println("test13");
+
+	}
+	
 	
 
 }
